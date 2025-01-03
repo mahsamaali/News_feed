@@ -1,0 +1,50 @@
+Journal 24 heures:      https://www.24heures.ca/rss.xml
+Journal de quebec:      https://www.journaldequebec.com/rss.xml
+Lecho de la rive nord: https://www.lechodelarivenord.ca/Rss/RssFeed
+TVA                     https://www.tvanouvelles.ca/rss.xml
+CBC                     https://www.cbc.ca/rss/
+7Jours                  https://www.7jours.ca/rss.xml
+Radio-Canada            https://ici.radio-canada.ca/rss/
+Ledevoir                http://feeds2.feedburner.com/fluxdudevoir
+Journal de montreal     https://www.journaldemontreal.com/rss.xml
+LaPresse                https://aide.lapresse.ca/hc/fr-ca/articles/4403915134231-Comment-obtenir-les-fils-RSS-
+Clin  doeil             https://www.clindoeil.ca/rss.xml
+Droit Inc               https://www.droit-inc.com/tiki-articles_rss.php?ver=2
+CTV news                https://www.ctvnews.ca/rss/ctvnews-ca-covid-all-news-tag-driven-1.4866013
+Toronto Sun             https://torontosun.com/feed
+National Post           https://nationalpost.com/category/news/feed.xml
+Yahoo Life              https://www.yahoo.com/lifestyle/rss
+Reader Digest           https://www.readersdigest.ca/feed/
+North America,s Oldest Newspaper  https://www.qctonline.com/feed/
+
+
+
+
+
+Quebec Main media:
+Lesaffaires             https://www.lesaffaires.com/
+Voir                    https://voir.ca/feed/
+https://www.thesuburban.com/
+CityNews Montreal       https://montreal.citynews.ca/feed/
+The Review              https://thereview.ca/feed/
+
+Ontario:
+TheStar                 https://www.thestar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory
+
+Art et Culture:
+CultMtl                 https://cultmtl.com/feed/
+L'Actualité             https://lactualite.com/feed/
+BestKeptMontreal        https://bestkeptmontreal.com/feed/
+
+(revue) Chatelaine      https://fr.chatelaine.com/feed/
+
+Narcity                 https://www.narcity.com/feeds/feed.rss
+
+
+
+Radio Quebec
+RadioX                   https://radiox.com/feed/  
+
+
+Quebec list               https://en.wikipedia.org/wiki/List_of_Quebec_media
+List Canadien Media list  https://www.canadianbucketlist.com/media_post/complete-list-of-media/

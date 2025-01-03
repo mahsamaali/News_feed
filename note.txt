@@ -1,0 +1,5 @@
+https://newspaper.readthedocs.io/en/latest/
+https://www.newscatcherapi.com/blog/python-web-scraping-libraries-to-mine-news-data
+
+
+https://anderfernandez.com/en/blog/chroma-vector-database-tutorial/
